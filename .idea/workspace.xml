@@ -12,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/b11497.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="14" column="17" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/b11497-2.py">
+        <entry file="file://$PROJECT_DIR$/b2164.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="14" column="18" lean-forward="true" selection-end-line="45" />
+            <state relative-caret-position="333">
+              <caret line="41" column="15" lean-forward="true" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -46,14 +37,15 @@
         <option value="$PROJECT_DIR$/b12605.py" />
         <option value="$PROJECT_DIR$/b10845.py" />
         <option value="$PROJECT_DIR$/b11497-2.py" />
+        <option value="$PROJECT_DIR$/b2164.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1088" />
-    <option name="y" value="5" />
-    <option name="width" value="1782" />
-    <option name="height" value="1456" />
+    <option name="x" value="679" />
+    <option name="y" value="145" />
+    <option name="width" value="1439" />
+    <option name="height" value="1460" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -78,7 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../7. algorithm/0820/박해인" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../평가 자료/과목평가/3회차/190823" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -92,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b11497-2">
+  <component name="RunManager" selected="Python.b2164">
     <configuration name="b10845" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="b17609" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="b2164" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b17609.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b2164.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.b2164" />
         <item itemvalue="Python.b11497-2" />
         <item itemvalue="Python.b10845" />
         <item itemvalue="Python.b12605" />
         <item itemvalue="Python.b11497" />
-        <item itemvalue="Python.b17609" />
       </list>
     </recent_temporary>
   </component>
@@ -222,15 +214,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="462" y="0" width="1018" height="832" extended-state="0" />
-    <editor active="true" />
+    <frame x="388" y="83" width="822" height="834" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20570265" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20528455" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32428572" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3233618" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -290,13 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b17609.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/b12605.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -311,17 +295,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b11497.py">
+    <entry file="file://$PROJECT_DIR$/b11497-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="14" column="17" selection-end-line="43" />
+        <state relative-caret-position="290">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/b11497-2.py">
+    <entry file="file://$PROJECT_DIR$/b11497.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="14" column="18" lean-forward="true" selection-end-line="45" />
+        <state relative-caret-position="522">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b17609.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2164.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="41" column="15" lean-forward="true" selection-end-line="46" />
         </state>
       </provider>
     </entry>
