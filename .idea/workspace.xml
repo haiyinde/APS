@@ -13,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/b2164.py">
+        <entry file="file://$PROJECT_DIR$/b2667.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="41" column="15" lean-forward="true" selection-end-line="46" />
+            <state relative-caret-position="232">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -38,14 +38,14 @@
         <option value="$PROJECT_DIR$/b10845.py" />
         <option value="$PROJECT_DIR$/b11497-2.py" />
         <option value="$PROJECT_DIR$/b2164.py" />
+        <option value="$PROJECT_DIR$/b2667.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="679" />
-    <option name="y" value="145" />
-    <option name="width" value="1439" />
-    <option name="height" value="1460" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-144" />
+    <option name="width" value="1166" />
+    <option name="height" value="1463" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -70,7 +70,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../평가 자료/과목평가/3회차/190823" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.b2164">
+  <component name="RunManager" selected="Python.b2667">
     <configuration name="b10845" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,27 +119,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b11497-2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="b11497" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="6. algorithmstudy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b11497.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,13 +169,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="b2667" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="6. algorithmstudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/b2667.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.b2667" />
         <item itemvalue="Python.b2164" />
         <item itemvalue="Python.b11497-2" />
         <item itemvalue="Python.b10845" />
         <item itemvalue="Python.b12605" />
-        <item itemvalue="Python.b11497" />
       </list>
     </recent_temporary>
   </component>
@@ -214,14 +214,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="388" y="83" width="822" height="834" extended-state="0" />
+    <frame x="-7" y="-7" width="1303" height="833" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20528455" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20457433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3233618" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32382312" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3982808" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,8 +319,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/b2164.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="335">
           <caret line="41" column="15" lean-forward="true" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/b2667.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
