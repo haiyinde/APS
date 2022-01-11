@@ -14,9 +14,9 @@ def solve(cnt, s):
 
     global mx, mn
     if cnt == k+1:
-        if not len(mn): # mn이 비워져 있으면 최솟값에 s 넣기
+        if not len(mn):  # mn이 비워져 있으면 최솟값에 s 넣기
             mn = s
-        else: # mn에 값이 있으면 최댓값에 넣기
+        else:  # mn에 값이 있으면 최댓값에 넣기
             mx = s
         return
     for num in range(10):
