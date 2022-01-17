@@ -1,10 +1,7 @@
-import sys
-INPUT = sys.stdin.readline
-
-N, M = map(int, INPUT().split())
+N, M = map(int, input().split())
 graph = []
 for _ in range(N):
-  graph.append(list(INPUT()[:-1]))
+  graph.append(list(input()[:-1]))
 answer = 0
 
 def dfs(x, y):
