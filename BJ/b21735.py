@@ -10,7 +10,7 @@ def DFS(time=0, now=0, snowball=1):
         DFS(time+1, now+1, snowball+a[now+1])
 
     if now <= N-2:
-        DFS(time + 1, now + 2, snowball // 2 + a[now + 2])
+        DFS(time+1, now+2, snowball//2+a[now+2])
 
 
 
