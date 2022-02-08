@@ -49,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Programmers/Level2/소수찾기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="669">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="670">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Programmers/Level2/124나라의숫자.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -89,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/b17609.py" />
         <option value="$PROJECT_DIR$/b11497.py" />
         <option value="$PROJECT_DIR$/b12605.py" />
         <option value="$PROJECT_DIR$/b10845.py" />
@@ -140,6 +148,7 @@
         <option value="$PROJECT_DIR$/Programmers/Level2/오픈채팅방.py" />
         <option value="$PROJECT_DIR$/Programmers/Level1/2016년.py" />
         <option value="$PROJECT_DIR$/Programmers/Level2/소수찾기.py" />
+        <option value="$PROJECT_DIR$/Programmers/Level2/124나라의숫자.py" />
       </list>
     </option>
   </component>
@@ -156,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,18 +181,13 @@
               <item name="APS" type="b2602c69:ProjectViewProjectNode" />
               <item name="APS" type="462c0819:PsiDirectoryNode" />
               <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="Level1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
               <item name="Level2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -635,7 +638,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/알고리즘 과목평가 대비/1.txt" />
     <entry file="file://$PROJECT_DIR$/알고리즘 과목평가 대비/2.txt" />
     <entry file="file://$PROJECT_DIR$/알고리즘 과목평가 대비/3.txt" />
     <entry file="file://$PROJECT_DIR$/알고리즘 과목평가 대비/4.py" />
@@ -845,6 +847,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Programmers/Level1/2016년.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8932">
@@ -859,17 +868,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level1/2016년.py">
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/소수찾기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="670">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Programmers/Level2/소수찾기.py">
+    <entry file="file://$PROJECT_DIR$/Programmers/Level2/124나라의숫자.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="669">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="145">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
         </state>
       </provider>
     </entry>
