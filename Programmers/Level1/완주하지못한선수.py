@@ -1,13 +1,10 @@
-def solution(participant, completion):
-    answer = ''
-    while len(participant) == 1:
-        c = completion[0]
-        if c in participant:
-            participant.remove(c)
+import collections
 
-    answer = participant[0]
+def solution(participant, completion):
+    participant.sort()
+    completion.sort()
+
+    answer = list(collections.Counter(participant) - collections.Counter(completion))[0]
+    print(answer)
 
     return answer
-
-# print(solution(["leo", "kiki", "eden"], ["eden", "kiki"]))
-print(solution(["marina", "josipa", "nikola", "vinko", "filipa"], ["josipa", "filipa", "marina", "nikola"]))
