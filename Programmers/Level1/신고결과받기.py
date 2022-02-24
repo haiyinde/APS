@@ -1,23 +1,28 @@
+from collections import defaultdict
+
 def solution(id_list, reports, k):
-    answer = []
-    blocked_user = []
-    reported_num = 0
+    answer = [0] * len(id_list)
     reported_dict = {}
-    reportees = []
+    blocked_users = []
+    # 한 유저가 같은 유저를 여러 번 신고한 경우는 신고 횟수 1회로 처리
+    reports = list(set(reports))
+    reports_data = defaultdict(list)
+    for id in id_list:
+        reported_dict[id] = 0
     for report in reports:
         reporter, reportee = report.split(" ")
-        # print(reporter, reportee)
-        reportees.append(reportee)
-        # reported_dict[reportee] = 0
-    # print(reportees)
+        reported_dict[reportee] += 1
+        reports_data[reporter].append(reportee)
+    # print(reports_data)
+    for id in id_list:
+        if reported_dict[id] >= k:
+            blocked_users.append(id)
 
-    for reportee in reportees:
-        reported_dict[reportee] = reportees.count(reportee)
-    print(reported_dict)
-
-    # if reported_num >= k:
-    #     blocked_user.append(user)
-
+    for bu in blocked_users:
+        for i in range(len(id_list)):
+            if bu in reports_data[id_list[i]]:
+                answer[i] += 1
+    # print(blocked_users)
     return answer
 
 id_list1 = ["muzi", "frodo", "apeach", "neo"]
