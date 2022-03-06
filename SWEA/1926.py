@@ -1,9 +1,11 @@
 N = int(input())
-numbers = list(range(N+1))
-clap = [3, 6, 9]
+numbers = list(map(str, range(1, N+1)))
 
-print(numbers)
+for i in range(N):
+    cnt = 0
+    for s in numbers[i]:
+        if s in ["3", "6", "9"]:
+            cnt += 1
+            numbers[i] = "-" * cnt
 
-for num in numbers:
-    if num in clap:
-        
+print(*numbers)
