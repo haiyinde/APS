@@ -1,3 +1,4 @@
+# D2
 N = int(input())
 numbers = list(map(str, range(1, N+1)))
 
