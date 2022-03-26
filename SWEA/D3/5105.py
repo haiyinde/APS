@@ -4,7 +4,7 @@ sys.stdin = open("sample_input.txt", "r")
 
 di = [-1, 1, 0, 0]
 dj = [0, 0, -1, 1]  # 상 하 좌 우
-
+ 
 def find_start():
     for i in range(N):
         for j in range(N):
