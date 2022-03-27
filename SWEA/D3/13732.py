@@ -1,7 +1,7 @@
 # D3
 import sys
 sys.stdin = open("sample_input.txt", "r")
-
+ 
 # di = [0, 0, -1, 1]
 # dj = [-1, 1, 0, 0]
 #
