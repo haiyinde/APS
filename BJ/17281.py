@@ -1,10 +1,15 @@
+def solution():
+    out = 0
+    while out <= 2:
+        for i in range(9):
+            if data[0][i] == 0 or data[1][i] == 0:
+            # if A[i] == 0 or B[i] == 0:
+                out += 1
+
+
 N = int(input())  # 이닝 수
+# A = list(map(int, input().split()))
+# B = list(map(int, input().split()))
+data = [list(map(int, input().split())) for _ in range(N)]
 
-data = [list(map(int, input().split() )) for _ in range(N)]
-
-# 한 이닝에 3 아웃이 발생하면 이닝이 종료되고, 두 팀이 공격과 수비를 서로 바꾼다.
-
-# 가장 많은 득점을 하는 타순을 찾고, 그 때의 득점을 구해보자.
-
-# 첫번째 선수는 4번 타자.
-
+solution()
