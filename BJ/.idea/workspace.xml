@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1330.py">
+        <entry file="file://$PROJECT_DIR$/9498.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="4" column="24" lean-forward="true" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="261">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -38,12 +38,13 @@
         <option value="$PROJECT_DIR$/10430.py" />
         <option value="$PROJECT_DIR$/2588.py" />
         <option value="$PROJECT_DIR$/1330.py" />
+        <option value="$PROJECT_DIR$/9498.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="354" />
-    <option name="width" value="614" />
+    <option name="x" value="-5" />
+    <option name="width" value="973" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -80,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2588">
+  <component name="RunManager" selected="Python.9498">
     <configuration name="10430" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,8 +124,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="9498" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BJ" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9498.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.9498" />
         <item itemvalue="Python.2588" />
         <item itemvalue="Python.10430" />
       </list>
@@ -144,7 +167,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="354" y="0" width="614" height="1047" extended-state="0" />
+    <frame x="-5" y="0" width="973" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -156,7 +179,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32858709" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32858709" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -241,6 +264,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
           <caret line="4" column="24" lean-forward="true" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9498.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
