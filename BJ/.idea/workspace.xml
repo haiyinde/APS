@@ -80,6 +80,9 @@
       </list>
     </option>
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="dd2a4f69-a3b3-4420-a74b-373cccb7a10a" name="Default Changelist" comment="" />
