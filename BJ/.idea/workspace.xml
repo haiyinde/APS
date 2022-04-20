@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd2a4f69-a3b3-4420-a74b-373cccb7a10a" name="Default Changelist" comment="" />
+    <list default="true" id="dd2a4f69-a3b3-4420-a74b-373cccb7a10a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2292.py" beforeDir="false" afterPath="$PROJECT_DIR$/2292.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +15,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2292.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="12" lean-forward="true" selection-end-line="8" selection-end-column="12" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -29,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/9498.py" />
         <option value="$PROJECT_DIR$/2753.py" />
         <option value="$PROJECT_DIR$/14681.py" />
         <option value="$PROJECT_DIR$/2884.py" />
@@ -80,14 +86,15 @@
         <option value="$PROJECT_DIR$/2941.py" />
         <option value="$PROJECT_DIR$/1316.py" />
         <option value="$PROJECT_DIR$/1712.py" />
+        <option value="$PROJECT_DIR$/2292.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="946" />
-    <option name="y" value="1" />
-    <option name="width" value="985" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1907" />
+    <option name="y" value="-192" />
+    <option name="width" value="2281" />
+    <option name="height" value="1458" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -97,7 +104,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -109,6 +115,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -253,11 +260,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="946" y="1" width="985" height="1047" extended-state="0" />
+    <frame x="1913" y="-186" width="1303" height="833" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19640972" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.19573796" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38882804" />
@@ -765,7 +773,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2292.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="12" lean-forward="true" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
