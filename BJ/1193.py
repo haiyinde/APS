@@ -7,8 +7,9 @@ while N > line:
 
 if line % 2 == 0:
     a = N
-    b = line-N+1
+    b = line - N + 1
 else:
-    a = line-N+1
+    a = line - N + 1
     b = N
-print(a, '/', b, sep='')
+
+print("{}/{}".format(a, b))
