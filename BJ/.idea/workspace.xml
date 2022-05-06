@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd2a4f69-a3b3-4420-a74b-373cccb7a10a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd2a4f69-a3b3-4420-a74b-373cccb7a10a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1929.py">
+        <entry file="file://$PROJECT_DIR$/4948.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="205">
+              <caret line="30" lean-forward="true" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -35,7 +33,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/15552.py" />
         <option value="$PROJECT_DIR$/2741.py" />
         <option value="$PROJECT_DIR$/2741-2.py" />
         <option value="$PROJECT_DIR$/2742.py" />
@@ -86,6 +83,7 @@
         <option value="$PROJECT_DIR$/11653-2.py" />
         <option value="$PROJECT_DIR$/25083.py" />
         <option value="$PROJECT_DIR$/1929.py" />
+        <option value="$PROJECT_DIR$/4948.py" />
       </list>
     </option>
   </component>
@@ -129,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1929">
+  <component name="RunManager" selected="Python.4948">
     <configuration name="11653" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +212,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2839" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="4948" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BJ" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +224,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2839.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4948.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -237,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4948" />
         <item itemvalue="Python.1929" />
         <item itemvalue="Python.11653" />
         <item itemvalue="Python.2581" />
         <item itemvalue="Python.1978" />
-        <item itemvalue="Python.2839" />
       </list>
     </recent_temporary>
   </component>
@@ -373,16 +371,25 @@
           <line>4</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/4948.py</url>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
-        <watch expression="num%i" language="Python" />
+        <watch expression="prime_numbers" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>prime_numbers</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>num%i</expression-string>
         <language-id>Python</language-id>
@@ -428,11 +435,6 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>i</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="setValue">
       <expression>
@@ -450,13 +452,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/11021.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/11022.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -802,8 +797,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1929.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="348">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4948.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="30" lean-forward="true" selection-end-line="30" />
         </state>
       </provider>
     </entry>
