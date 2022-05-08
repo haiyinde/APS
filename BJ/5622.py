@@ -1,4 +1,4 @@
-S = list(input())
+S = list(input()) 
 result = 0
 
 for s in S:
