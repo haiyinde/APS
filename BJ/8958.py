@@ -8,4 +8,4 @@ for _ in range(int(input())):
             total += count
         else:
             count = 0
-    print(total)
+    print(total) 
