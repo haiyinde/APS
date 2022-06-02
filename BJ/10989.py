@@ -1,10 +1,14 @@
-# 계수 정렬 => 시간 초과
+import sys
+# 계수 정렬 => 메모리 초과
+# Pypy3 : 메모리 초과 //  Python3 : 통과
 N = int(input())
-numbers = list(int(input()) for _ in range(N))
-
 storage = [0] * 10000
 
-for num in numbers:
+# for num in numbers:
+#     storage[num-1] += 1
+
+for i in range(N):
+    num = int(sys.stdin.readline())
     storage[num-1] += 1
 
 for i in range(10000):
