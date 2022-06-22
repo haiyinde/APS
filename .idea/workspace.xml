@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9017f59-725d-46a4-b106-eb30f74454a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c9017f59-725d-46a4-b106-eb30f74454a4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/5086.py">
+        <entry file="file://$PROJECT_DIR$/BJ/10773.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="8" column="9" lean-forward="true" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="205">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -38,8 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BJ/b10171.py" />
-        <option value="$PROJECT_DIR$/Programmers/Level2/멀쩡한사각형.py" />
         <option value="$PROJECT_DIR$/Programmers/Level1/신고결과받기.py" />
         <option value="$PROJECT_DIR$/BJ/b10718.py" />
         <option value="$PROJECT_DIR$/SWEA/2056.py" />
@@ -89,14 +85,15 @@
         <option value="$PROJECT_DIR$/naver_3.py" />
         <option value="$PROJECT_DIR$/naver_4.py" />
         <option value="$PROJECT_DIR$/BJ/5086.py" />
+        <option value="$PROJECT_DIR$/BJ/10817.py" />
+        <option value="$PROJECT_DIR$/BJ/10773.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1169" />
-    <option name="y" value="3" />
-    <option name="width" value="1155" />
-    <option name="height" value="1458" />
+    <option name="x" value="1107" />
+    <option name="width" value="1217" />
+    <option name="height" value="1446" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -106,6 +103,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +120,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,8 +142,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5086">
-    <configuration name="1085" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.10773">
+    <configuration name="10773" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +155,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/1085.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/10773.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10773" />
         <item itemvalue="Python.5086" />
         <item itemvalue="Python.naver_4" />
         <item itemvalue="Python.naver_3" />
         <item itemvalue="Python.3009" />
-        <item itemvalue="Python.1085" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +272,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="669" y="3" width="660" height="832" extended-state="0" />
+    <frame x="633" y="0" width="695" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -287,8 +285,8 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5442857" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5489914" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3281027" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -531,8 +529,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/1979.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/1976.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/input.txt" />
     <entry file="file://$PROJECT_DIR$/SWEA/1974.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/1966.py" />
@@ -756,13 +752,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BJ/2477.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/2477.py" />
     <entry file="file://$PROJECT_DIR$/BJ/5086.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="8" column="9" lean-forward="true" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="212">
+          <caret line="8" column="9" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/10817.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/10773.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
