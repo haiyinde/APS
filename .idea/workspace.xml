@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9017f59-725d-46a4-b106-eb30f74454a4" name="Default Changelist" comment="" />
+    <list default="true" id="c9017f59-725d-46a4-b106-eb30f74454a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +13,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BJ/10773.py">
+        <entry file="file://$PROJECT_DIR$/BJ/3053.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="145">
+              <caret line="5" column="17" selection-end-line="5" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -36,10 +38,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Programmers/Level1/신고결과받기.py" />
-        <option value="$PROJECT_DIR$/BJ/b10718.py" />
-        <option value="$PROJECT_DIR$/SWEA/2056.py" />
-        <option value="$PROJECT_DIR$/SWEA/1926.py" />
         <option value="$PROJECT_DIR$/SWEA/2001.py" />
         <option value="$PROJECT_DIR$/SWEA/2007.py" />
         <option value="$PROJECT_DIR$/SWEA/1989.py" />
@@ -87,13 +85,18 @@
         <option value="$PROJECT_DIR$/BJ/5086.py" />
         <option value="$PROJECT_DIR$/BJ/10817.py" />
         <option value="$PROJECT_DIR$/BJ/10773.py" />
+        <option value="$PROJECT_DIR$/BJ/2504.py" />
+        <option value="$PROJECT_DIR$/BJ/16926.py" />
+        <option value="$PROJECT_DIR$/BJ/1966.py" />
+        <option value="$PROJECT_DIR$/BJ/3053.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1107" />
-    <option name="width" value="1217" />
-    <option name="height" value="1446" />
+    <option name="x" value="1282" />
+    <option name="y" value="155" />
+    <option name="width" value="1084" />
+    <option name="height" value="1449" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -142,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.10773">
+  <component name="RunManager" selected="Python.3053">
     <configuration name="10773" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3009" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="16926" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/3009.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/16926.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5086" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1966" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,7 +200,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/5086.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/1966.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +209,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="naver_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2504" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/2504.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="naver_4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3053" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -235,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BJ" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/naver_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/3053.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3053" />
+        <item itemvalue="Python.1966" />
+        <item itemvalue="Python.16926" />
+        <item itemvalue="Python.2504" />
         <item itemvalue="Python.10773" />
-        <item itemvalue="Python.5086" />
-        <item itemvalue="Python.naver_4" />
-        <item itemvalue="Python.naver_3" />
-        <item itemvalue="Python.3009" />
       </list>
     </recent_temporary>
   </component>
@@ -272,21 +275,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="633" y="0" width="695" height="826" extended-state="0" />
-    <editor active="true" />
+    <frame x="678" y="0" width="618" height="827" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.4775641" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.4748062" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43285716" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41654778" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43165466" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4164265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.5489914" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.54820144" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3281027" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -294,20 +296,20 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.4814815" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.4759887" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43615496" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4175036" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43227667" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4164265" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5389049" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32952926" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.5489914" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299712" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3281027" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,21 +456,26 @@
           <line>5</line>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/naver_3.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/naver_4.py</url>
-          <line>24</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="parenthesis[i+1]" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
+      <expression>
+        <expression-string>parenthesis[i+1]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>parenthesis[i]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>part_board[0][0]</expression-string>
         <language-id>Python</language-id>
@@ -509,16 +516,6 @@
         <language-id>Python</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>N</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>S[i:j]</expression-string>
-        <language-id>Python</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
@@ -529,10 +526,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SWEA/input.txt" />
-    <entry file="file://$PROJECT_DIR$/SWEA/1974.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/1966.py" />
-    <entry file="file://$PROJECT_DIR$/SWEA/1961.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/1959.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/1948.py" />
     <entry file="file://$PROJECT_DIR$/SWEA/1946.py" />
@@ -696,13 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/urllib/parse.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24737">
-          <caret line="857" selection-start-line="857" selection-end-line="857" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BJ/10814.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="203">
@@ -769,8 +755,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/10773.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        <state relative-caret-position="145">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/2504.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/16926.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="32" column="16" lean-forward="true" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="861" selection-start-line="861" selection-end-line="861" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/1966.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/3053.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="5" column="17" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
