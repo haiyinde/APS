@@ -1,14 +1,10 @@
+from collections import Counter
+
 N = int(input())
 cards = list(map(int, input().split()))
-cards_dict = dict()
 M = int(input())
-criterias = list(map(int, input().split()))
+keys = list(map(int, input().split()))
 
-for card in cards:
-    if card in cards_dict:
-        cards_dict[card] += 1
-    else:
-        cards_dict[card] = 1
-
-for c in criterias:
-    print(cards_dict.get(c, 0), end=" ")
+count_list = Counter(cards)
+for key in keys:
+    print(count_list[key])

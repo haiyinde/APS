@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9017f59-725d-46a4-b106-eb30f74454a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/10816.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/10816.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BJ/1920.py" beforeDir="false" afterPath="$PROJECT_DIR$/BJ/1920.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BJ/1920.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            <state relative-caret-position="290">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BJ/10816.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -38,7 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/SWEA/D2/1928.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/13732.py" />
         <option value="$PROJECT_DIR$/SWEA/D3/1244.py" />
         <option value="$PROJECT_DIR$/BJ/17070.py" />
@@ -89,6 +98,7 @@
         <option value="$PROJECT_DIR$/Programmers/Level2/주사위게임.py" />
         <option value="$PROJECT_DIR$/Programmers/Level2/카펫.py" />
         <option value="$PROJECT_DIR$/BJ/1920.py" />
+        <option value="$PROJECT_DIR$/BJ/10816.py" />
       </list>
     </option>
   </component>
@@ -145,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1920">
+  <component name="RunManager" selected="Python.10816">
     <configuration name="배상비용최소화" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1358" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10816" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="6. algorithmstudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,7 +210,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/1358.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BJ/10816.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10816" />
         <item itemvalue="Python.1920" />
         <item itemvalue="Python.배상비용최소화" />
         <item itemvalue="Python.1927" />
         <item itemvalue="Python.1004" />
-        <item itemvalue="Python.1358" />
       </list>
     </recent_temporary>
   </component>
@@ -280,10 +290,10 @@
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" weight="0.2809829" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2809829" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3394608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5502451" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40656206" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -532,7 +542,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/tworks2.py" />
     <entry file="file://$PROJECT_DIR$/BJ/1269.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="145">
@@ -834,8 +843,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BJ/1920.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state relative-caret-position="290">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BJ/10816.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
